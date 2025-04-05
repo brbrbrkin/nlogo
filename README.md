@@ -1,2 +1,3 @@
-# nlogo
-Simple nlogo AI
+# Simple nlogo AI
+
+Seeks particles while avoiding obstacles
